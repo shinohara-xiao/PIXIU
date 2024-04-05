@@ -1,0 +1,146 @@
+[
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:600519.SH,证券简称:贵州茅台,总市值:22460.8167亿元,净利润:548.2717亿元,每股收益:56.6733元,收盘价:1256197800.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在29.7451和30.7451之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:603444.SH,证券简称:吉比特,总市值:262.2408亿元,净利润:11.2366亿元,每股收益:18.1626元,收盘价:72041101.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在10.7429和11.7429之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:603688.SH,证券简称:石英股份,总市值:479.4509亿元,净利润:42.158亿元,每股收益:12.9803元,收盘价:361277126.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在5.3396和6.3396之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:688169.SH,证券简称:石头科技,总市值:345.1224亿元,净利润:13.6035亿元,每股收益:12.845元,收盘价:131477470.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在24.154和25.154之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:301589.SZ,证券简称:诺瓦星云,总市值: 亿元,净利润:6.0777亿元,每股收益:11.8336元,收盘价:7702090.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在35.6597和36.6597之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:000661.SZ,证券简称:长春高新,总市值:789.6697亿元,净利润:37.8368亿元,每股收益:10.5994元,收盘价:401940440.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在11.2856和12.2856之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:688717.SH,证券简称:艾罗能源,总市值: 亿元,净利润:10.1822亿元,每股收益:10.1135元,收盘价:18559409.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在7.507099999999999和8.5071之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:300750.SZ,证券简称:宁德时代,总市值:9901.9539亿元,净利润:325.1626亿元,每股收益:10.0665元,收盘价:3894852702.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在15.4439和16.4439之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    },
+    {
+        "role_prompt": " ",
+        "model_prompt": " ",
+        "information": "证券代码:002466.SZ,证券简称:天齐锂业,总市值:1299.4882亿元,净利润:223.7026亿元,每股收益:9.8961元,收盘价:1474778988.0元",
+        "needs": "根据公司输入的信息，依据收盘价和每股收益计算公司市盈率.",
+        "evaluation_prompt": " ",
+        "evaluation_hints": "市盈率在4.3464和5.3464之间",
+        "evaluation_points": {
+            "answer": "",
+            "must_contain": "市盈率",
+            "at_least_contain": " ",
+            "should_contain": " ",
+            "encourage_contain": " ",
+            "forbid_contain": ""
+        }
+    }
+]
